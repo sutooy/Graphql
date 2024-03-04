@@ -24,7 +24,6 @@ export default function Home({ }) {
   const user = data?.users[0]
   // ===
 
-  console.log(data)
   const settings = {
     dots: true,
     className: "center",
