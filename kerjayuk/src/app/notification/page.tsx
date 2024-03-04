@@ -1,8 +1,8 @@
 "use client"
 import React, { useState } from 'react'
-import { dateParse } from '../utils/timeParse'
-import { formatText } from '../utils/text'
-import { notifData } from '../utils/mockData'
+import { dateParse } from '../../utils/timeParse'
+import { formatText } from '../../utils/text'
+import { notifData } from '../../utils/mockData'
 
 function Notif() {
 

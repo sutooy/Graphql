@@ -31,3 +31,17 @@ body {
     text-wrap: balance;
   }
 }
+
+.adjust {
+  .slick-arrow {
+    display: none !important;
+  }
+  .slick-dots {
+    .slick-active button:before {
+      color: #ff2e29;
+    }
+  }
+  .slick-dots button:before {
+    font-size: 15px;
+  }
+}

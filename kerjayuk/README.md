@@ -2,7 +2,7 @@ Slicing home & notification page
 
 ## Getting Started
 
-cd/kerjayuk
+cd /kerjayuk
 
 ```bash
 npm run dev
